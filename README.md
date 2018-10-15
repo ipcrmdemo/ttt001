@@ -29,7 +29,7 @@ $ ./mvnw test
 
 ---
 
-Created by [Atomist][atomist].
+Created by [Atomist][atomist]..
 Need Help?  [Join our Slack team][slack].
 
 [atomist]: https://www.atomist.com/ (Atomist - How Teams Deliver Software)
